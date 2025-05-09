@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>갤럭시 S24 FE 유플러스 특가 이벤트</title>
+  <style>
+    body { font-family: 'Apple SD Gothic Neo', sans-serif; background: #f9f9f9; color: #333; margin: 0; padding: 0; }
+    .container { max-width: 800px; margin: 0 auto; padding: 2rem; background: white; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+    h1, h2 { color: #1a73e8; }
+    table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
+    th, td { border: 1px solid #ccc; padding: 0.75rem; text-align: left; }
+    .cta-buttons { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 2rem; }
+    .cta-buttons a { background: #1a73e8; color: white; text-align: center; padding: 1rem; text-decoration: none; border-radius: 8px; font-weight: bold; }
+    .highlight { background: #e8f0fe; padding: 0.5rem; border-left: 5px solid #1a73e8; margin: 1rem 0; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>📱 갤럭시 S24 FE 유플러스 번호이동 특가 이벤트</h1>
+    <h2>오산 최초! 부가서비스 없이 개통 가능 🎉</h2>
+
+    <h3>✅ 지금 S24 FE로 갈아타야 하는 이유!</h3>
+    <table>
+      <tr><th>혜택</th><th>내용</th></tr>
+      <tr><td>🎁 기기</td><td>삼성 갤럭시 S24 FE (정품 미개봉)</td></tr>
+      <tr><td>📞 통신사</td><td>유플러스 (번호이동 전용)</td></tr>
+      <tr><td>💸 요금제 조건</td><td>6개월만 유지, 이후 자유 변경 가능</td></tr>
+      <tr><td>❌ 부가서비스</td><td><strong>가입 없음!</strong> (오산 최초 조건)</td></tr>
+      <tr><td>🚚 개통</td><td>당일 빠른 개통, 실사용자 우선</td></tr>
+    </table>
+
+    <h3>📌 이런 분들께 추천합니다</h3>
+    <ul>
+      <li>✅ 부가서비스 없이 깔끔하게 개통하고 싶으신 분</li>
+      <li>✅ 실속 있게 갤럭시 S24 FE 구매 원하시는 분</li>
+      <li>✅ 좋은 조건으로 번호이동 찾고 계셨던 분</li>
+      <li>✅ 기기값 부담 줄이고 싶은 분</li>
+    </ul>
+
+    <div class="highlight">
+      📍 <strong>오산 전지역 개통 가능</strong> (내방 / 택배 선택 가능)<br />
+      📌 주소: <strong>경기도 오산시 원동로 35</strong><br />
+      💬 카카오톡, 당근채팅, 문자 문의 모두 환영합니다!
+    </div>
+
+    <div class="cta-buttons">
+      <a href="#">👉 상담하기</a>
+      <a href="#">👉 카카오톡 연결</a>
+      <a href="tel:010-6647-1224">👉 전화문의: 010-6647-1224</a>
+    </div>
+  </div>
+</body>
+</html>
+
